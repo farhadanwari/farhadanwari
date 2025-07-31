@@ -24,7 +24,7 @@ Since childhood, I’ve been fascinated by the raw power of Linux and open-sourc
 - ⚙️ **Languages & Scripting:** Python · Bash · PowerShell  
 - 🔎 **Pentesting & Recon:** Kali Linux · Metasploit · Nmap · Burp Suite · Nessus · OSINT Automation · Hydra · Gobuster · Shell · LinPeas · LES 
 - 📊 **Monitoring & Forensics:** SIEM (Splunk) · Digital Forensics (Autopsy) · Incident Response
-- 📐 **Frameworks & Methodologies:** OWASP Top 10 · MITRE ATT&CK · Threat Modeling (STRIDE) · NIST Cybersecurity Framework · ISO/IEC 270001 · NIST 800-53 · Cyber Kill Chain · Unified Kill Chain 
+- 📐 **Frameworks and Standards:** OWASP Top 10 · MITRE ATT&CK · Threat Modeling (STRIDE) · NIST Cybersecurity Framework · ISO/IEC 270001 · NIST 800-53 · GDPR · PCI DSS · HIPPA 
 - ☁️ **Security Domains:** Network Security · Cloud Security (AWS, Azure) · GRC (Governance, Risk & Compliance) · Operating System Security · Software Security · Web Application Security  
 - 🛠️ **DevOps & CI/CD:** Git · GitHub Actions · Docker
 
