@@ -3,12 +3,8 @@
 **Cybersecurity Engineer & Penetration Tester**  
 Certified Cybersecurity Professional (CompTIA Security+, (ISC)² CC) | TryHackMe Top 3% | Tech Blogger
 
-[![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B-✓-blue)]([https://www.comptia.org/](https://www.credly.com/badges/4eb680a2-f8d5-4f1e-a981-b01667449665/public_url))  
-[![ISC² CC](https://img.shields.io/badge/ISC%C2%B2%20Certified-✓-darkgreen)](https://www.credly.com/badges/78d8b4cd-6b84-48d0-adcd-259098e0b654/linked_in_profile)  
-[![GitHub License](https://img.shields.io/github/license/farhadanwari/farhadanwari?style=flat-square)](https://github.com/farhadanwari/farhadanwari/blob/main/LICENSE)  
-[![CI Status](https://img.shields.io/github/actions/workflow/status/farhadanwari/farhadanwari/ci.yml?branch=main&style=flat-square)](https://github.com/farhadanwari/farhadanwari/actions)  
-[![Vulnerabilities](https://img.shields.io/snyk/vulnerabilities/github/farhadanwari/farhadanwari?style=flat-square)](https://snyk.io/test/github/farhadanwari/farhadanwari)  
-[![Coverage Status](https://img.shields.io/coveralls/github/farhadanwari/farhadanwari?style=flat-square)](https://coveralls.io/github/farhadanwari/farhadanwari)
+[![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B-✓-blue)](https://www.credly.com/badges/4eb680a2-f8d5-4f1e-a981-b01667449665/public_url)  
+[![ISC² CC](https://img.shields.io/badge/ISC%C2%B2%20Certified-✓-darkgreen)](https://www.credly.com/badges/78d8b4cd-6b84-48d0-adcd-259098e0b654/linked_in_profile) 
 
 ---
 
@@ -38,13 +34,13 @@ Since childhood, I’ve been fascinated by the raw power of Linux and open-sourc
 
 ### [simple-keylogger](https://github.com/farhadanwari/simple-keylogger)  
 A Python demo tool to illustrate keylogging fundamentals, pattern-matching for credentials, and secure coding lessons.
-
+```
 //### [red-blue-sim](https://github.com/farhadanwari/red-blue-sim)  
 //End-to-end breach & defense scenario using Splunk for SIEM, COMODO EDR for endpoint, and custom attack scripts—perfect for tabletop exercises.
 
 //### [CTF Write-Ups](https://github.com/farhadanwari/CTF-Writeups)  
 //Step-by-step solutions for TryHackMe challenges and Advent of Cyber labs, covering OSINT, web exploitation, and forensics.
-
+```
 ---
 
 ## 📊 GitHub Stats
