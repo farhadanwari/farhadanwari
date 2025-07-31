@@ -34,13 +34,7 @@ Since childhood, I’ve been fascinated by the raw power of Linux and open-sourc
 
 ### [simple-keylogger](https://github.com/farhadanwari/simple-keylogger)  
 A Python demo tool to illustrate keylogging fundamentals, pattern-matching for credentials, and secure coding lessons.
-```
-//### [red-blue-sim](https://github.com/farhadanwari/red-blue-sim)  
-//End-to-end breach & defense scenario using Splunk for SIEM, COMODO EDR for endpoint, and custom attack scripts—perfect for tabletop exercises.
 
-//### [CTF Write-Ups](https://github.com/farhadanwari/CTF-Writeups)  
-//Step-by-step solutions for TryHackMe challenges and Advent of Cyber labs, covering OSINT, web exploitation, and forensics.
-```
 ---
 
 ## 📊 GitHub Stats
