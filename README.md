@@ -1,29 +1,88 @@
-# Hi I'm Farhad 👋
-I’m a Cybersecurity Engineer & Penetration Tester, Certified Cybersecurity Professional (CompTIA Security+, (ISC)² CC), TryHackMe CTF enthusiast, and tech blogger—fascinated by the art and science of digital defense.
-Here you’ll find:
-- Open-source security scripts
-- Detailed CTF write-ups
-- Hands-on infosec projects
-- Deep-dive explorations into modern security challenges
-<!--
-**farhadanwari/farhadanwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I’m Farhad 👋
 
-Here are some ideas to get you started:
+**Cybersecurity Engineer & Penetration Tester**  
+Certified Cybersecurity Professional (CompTIA Security+, (ISC)² CC) | TryHackMe Top 3% | Tech Blogger
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# About Me
-I caught fire hacking. 🔥
+[![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B-✓-blue)]([https://www.comptia.org/](https://www.credly.com/badges/4eb680a2-f8d5-4f1e-a981-b01667449665/public_url))  
+[![ISC² CC](https://img.shields.io/badge/ISC%C2%B2%20Certified-✓-darkgreen)](https://www.credly.com/badges/78d8b4cd-6b84-48d0-adcd-259098e0b654/linked_in_profile)  
+[![GitHub License](https://img.shields.io/github/license/farhadanwari/farhadanwari?style=flat-square)](https://github.com/farhadanwari/farhadanwari/blob/main/LICENSE)  
+[![CI Status](https://img.shields.io/github/actions/workflow/status/farhadanwari/farhadanwari/ci.yml?branch=main&style=flat-square)](https://github.com/farhadanwari/farhadanwari/actions)  
+[![Vulnerabilities](https://img.shields.io/snyk/vulnerabilities/github/farhadanwari/farhadanwari?style=flat-square)](https://snyk.io/test/github/farhadanwari/farhadanwari)  
+[![Coverage Status](https://img.shields.io/coveralls/github/farhadanwari/farhadanwari?style=flat-square)](https://coveralls.io/github/farhadanwari/farhadanwari)
 
-Since childhood, I have dreamed of writing code for a major enterprise—sipping iced drinks while crafting elegant software, and perhaps launching my startup someday. I dove into data structures and algorithms, but everything changed when I discovered Linux. The command line’s raw power and the open-source ethos sparked a passion for exploring systems and unraveling digital puzzles.
+---
 
-That passion led me to Capture the Flag competitions, where every challenge sharpened my creativity and problem-solving skills. Today, I’m a cybersecurity engineer balancing a Master’s in the Erasmus Mundus CYBERUS program at Université Bretagne Sud and the University of Luxembourg with real-world testing and research. I’m Certified in Cybersecurity by (ISC)², hold CompTIA Security+, and have built deep expertise in Splunk, Nessus, Caldera BAS, Autopsy, Kali Linux, Metasploit, Nmap, and Burp Suite.
+## 🚀 About Me
 
-For nearly two years, I’ve taught hands-on information security at Cyber Talent Forge, guiding dozens of students through labs and real-world attack simulations. Off the clock, I’m proud to rank in the Top 3% globally on TryHackMe and to blog my experiences on Medium. My recent Red vs. Blue Team project—simulating a real-world breach, defense, and investigation with Splunk and COMODO EDR—exemplifies my drive to merge theory and practice. Next up: OSCP+ and CompTIA Pentest+ to keep leveling up and helping organizations stay secure.
+Since childhood, I’ve been fascinated by the raw power of Linux and open-source—the command line felt like a superpower. That fire sparked my journey into coding, CTFs, and ultimately a career in cybersecurity. Today I balance:
+
+- 🎓 **Erasmus Mundus CYBERUS Master’s** at Université Bretagne Sud & University of Luxembourg  
+- 🔍 Real-world penetration testing & Red vs Blue simulations (Splunk, COMODO EDR)  
+- 💼 Instructor at Cyber Talent Forge, teaching hands-on attack/defense labs  
+- 🏆 TryHackMe Top 3% globally – CTF lover
+
+---
+
+## 🧰 Skills & Tools
+
+- ⚙️ **Languages & Scripting:** Python · Bash · PowerShell  
+- 🔎 **Pentesting & Recon:** Kali Linux · Metasploit · Nmap · Burp Suite · Nessus · OSINT Automation · Hydra · Gobuster · Shell · LinPeas · LES 
+- 📊 **Monitoring & Forensics:** SIEM (Splunk) · Digital Forensics (Autopsy) · Incident Response
+- 📐 **Frameworks & Methodologies:** OWASP Top 10 · MITRE ATT&CK · Threat Modeling (STRIDE) · NIST Cybersecurity Framework · ISO/IEC 270001 · NIST 800-53 · Cyber Kill Chain · Unified Kill Chain 
+- ☁️ **Security Domains:** Network Security · Cloud Security (AWS, Azure) · GRC (Governance, Risk & Compliance) · Operating System Security · Software Security · Web Application Security  
+- 🛠️ **DevOps & CI/CD:** Git · GitHub Actions · Docker
+
+---
+
+## ⭐ Featured Projects
+
+### [simple-keylogger](https://github.com/farhadanwari/simple-keylogger)  
+A Python demo tool to illustrate keylogging fundamentals, pattern-matching for credentials, and secure coding lessons.
+
+//### [red-blue-sim](https://github.com/farhadanwari/red-blue-sim)  
+//End-to-end breach & defense scenario using Splunk for SIEM, COMODO EDR for endpoint, and custom attack scripts—perfect for tabletop exercises.
+
+//### [CTF Write-Ups](https://github.com/farhadanwari/CTF-Writeups)  
+//Step-by-step solutions for TryHackMe challenges and Advent of Cyber labs, covering OSINT, web exploitation, and forensics.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=farhadanwari&show_icons=true&theme=radical" alt="Farhad's GitHub stats" />
+</p>
+
+---
+
+## 🎓 Education & Certifications
+
+| 🎓 Program / Cert.                              | 🏫 Institution / Issuer                  | 📅 Year   |
+| ----------------------------------------------- | --------------------------------------- | -------- |
+| Erasmus Mundus CYBERUS Master’s                | Univ. Bretagne Sud & Univ. Luxembourg   | 2024–2026|
+| CompTIA Security+                              | CompTIA                                 | 2025-2028|
+| Certified Cybersecurity Professional (CC)      | (ISC)²                                  | 2023-2026|
+| Currently pursuing OSCP+ & CompTIA Pentest+    | —                                       | 2026     |
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Top 3% global ranking on TryHackMe
+- 🎯 Built & taught 50+ hands-on labs at Cyber Talent Forge
+- 🔥 Published 40+ Medium articles on CTFs, tool development, and OSINT
+- Best Paper Awards, IEEE and Astana IT University bestow this accolade for achieving the Best Paper Award at the inaugural 2024 International Student Conference: "Digital Generation." Our paper was recognized as the top paper among all submissions at the conference.
+
+---
+
+## 📫 Let’s Connect
+
+- <img src="https://img.shields.io/badge/-TryHackMe-black?logo=tryhackme&style=flat-square" /> [TryHackMe](https://tryhackme.com/p/farhadanwari)
+- <img src="https://img.shields.io/badge/-Medium-black?logo=medium&style=flat-square" /> [Medium](https://medium.com/@farhadanwari)
+- <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square" /> [LinkedIn](https://www.linkedin.com/in/farhadanwari/)
+- <img src="https://img.shields.io/badge/-Twitter-blue?logo=twitter&style=flat-square" /> [Twitter](https://twitter.com/farhadAnwari8)
+
+---
+
+> “Security is not a product, but a continual process.”  
+> — Bruce Schneier
