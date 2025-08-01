@@ -36,8 +36,10 @@ Since childhood, I’ve been fascinated by the raw power of Linux and open-sourc
 A Python demo tool to illustrate keylogging fundamentals, pattern-matching for credentials, and secure coding lessons.
 
 ### [pentest-toolkit](https://github.com/farhadanwari/pentest-toolkit)
+
 A collection of Python scripts for penetration testing and ethical hacking.
 This toolkit includes practical tools for common tasks such as subdomain and directory enumeration, scanning, brute forcing, and more.
+
 ---
 
 ## 📊 GitHub Stats
