@@ -1,7 +1,7 @@
 # Hi, I’m Farhad 👋
 
 **Cybersecurity Engineer & Penetration Tester**  
-Certified Cybersecurity Professional (CompTIA Security+, (ISC)² CC) | TryHackMe Top 3% | Tech Blogger
+Certified Cybersecurity Professional (CompTIA Security+, (ISC)² CC) | TryHackMe Top 2% | Tech Blogger
 
 [![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B-✓-blue)](https://www.credly.com/badges/4eb680a2-f8d5-4f1e-a981-b01667449665/public_url)  
 [![ISC² CC](https://img.shields.io/badge/ISC%C2%B2%20Certified-✓-darkgreen)](https://www.credly.com/badges/78d8b4cd-6b84-48d0-adcd-259098e0b654/linked_in_profile) 
@@ -15,7 +15,7 @@ Since childhood, I’ve been fascinated by the raw power of Linux and open-sourc
 - 🎓 **Erasmus Mundus CYBERUS Master’s** at Université Bretagne Sud & University of Luxembourg  
 - 🔍 Real-world penetration testing & Red vs Blue simulations (Splunk, COMODO EDR)  
 - 💼 Instructor at Cyber Talent Forge, teaching hands-on attack/defense labs  
-- 🏆 TryHackMe Top 3% globally – CTF lover
+- 🏆 TryHackMe Top 2% globally – CTF lover
 
 ---
 
@@ -63,7 +63,7 @@ This toolkit includes practical tools for common tasks such as subdomain and dir
 
 ## 🏆 Achievements
 
-- 🥇 Top 3% global ranking on TryHackMe
+- 🥇 Top 2% global ranking on TryHackMe
 - 🎯 Built & taught 50+ hands-on labs at Cyber Talent Forge
 - 🔥 Published 40+ Medium articles on CTFs, tool development, and OSINT
 - Best Paper Awards, IEEE and Astana IT University bestow this accolade for achieving the Best Paper Award at the inaugural 2024 International Student Conference: "Digital Generation." Our paper was recognized as the top paper among all submissions at the conference.
