@@ -41,14 +41,14 @@ A collection of Python scripts for penetration testing and ethical hacking.
 This toolkit includes practical tools for common tasks such as subdomain and directory enumeration, scanning, brute forcing, and more.
 
 ---
-/**
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=farhadanwari&show_icons=true&theme=radical" alt="Farhad's GitHub stats" />
 </p>
 **/
----
+-->
 
 ## 🎓 Education & Certifications
 
